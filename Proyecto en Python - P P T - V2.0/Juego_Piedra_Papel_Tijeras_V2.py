@@ -1,4 +1,4 @@
-# 🧩 Programación en Python
+#🐺 Proyecto en Python
 'Juego de Piedra, Papel o Tijeras V2.0.'
 
 import os
@@ -140,4 +140,5 @@ else:
 # Guardar los resultados en un archivo personalizado
 guardar_resultados(nombre_jugador, puntos_jugador, puntos_computadora, resultado_final)
 print(f'\n Fin de la partida, ¡Adios {nombre_jugador}! 👋\n')
+
 
